@@ -45,3 +45,28 @@ h1{
     width: 60%;
     margin-left: 5%;
 }
+/* Features section */
+#features{
+    text-align: center;
+}
+.feature-section{
+    margin-top: 7%;
+    margin-bottom: 7%;
+}
+.features-icon{
+    color:#ef8172;
+    font-size: 4.5rem;
+
+    margin-bottom: 1rem;
+}
+.features-icon:hover{
+    color: #ff4c68;
+}
+#features h3{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 1.5rem;
+}
+#features p{
+    color: #8f8f8f;
+}
