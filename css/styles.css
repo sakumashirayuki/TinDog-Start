@@ -12,6 +12,7 @@ h2{
     font-weight: 900;
     font-size: 3rem;
     line-height: 1.5;
+    margin: auto;
 }
 h3{
     font-family: 'Montserrat', sans-serif;
@@ -81,6 +82,10 @@ h3{
     text-align: center;
     color: white;
 }
+.carousel-item{
+    margin: 7% 15%;
+    width: auto;
+}
 .testimonial-image{
     width: 10%;
     border-radius: 100%;
@@ -100,4 +105,12 @@ h3{
 }
 .press-image{
     width: 100%;
+}
+/* Pricing section */
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+.pricing-column{
+    padding: 3% 2%;
 }
