@@ -20,6 +20,14 @@ h3{
     line-height: 1.5;
     text-align: left;
 }
+/* Background section */
+.colored-section{
+    background-color: #ff4c68;
+    color: white;
+}
+.white-section{
+    background-color: white;
+}
 /* Navigation bar */
 .navbar{
     padding-bottom: 4.5rem;
@@ -51,10 +59,6 @@ h3{
 .rotated {
     transform: rotate(25deg);
   }
-#title{
-    background-color: #ff4c68;
-    color: white;
-}
 #iphone-mockup{
     width: 60%;
     left: 24%;
@@ -63,7 +67,6 @@ h3{
 }
 /* Features section */
 #features{
-    background-color: white;
     position: relative;
 }
 .feature-section div{
@@ -85,7 +88,6 @@ h3{
 /* Testimonial Section */
 #testimonials{
     background-color: #ef8172;
-    color: white;
 }
 .carousel-item{
     margin: 7% 15%;
@@ -120,11 +122,9 @@ h3{
 }
 /* CallToAction Section */
 #cta{
-    background-color: #ff4c68;
     padding-top: 5%;
 }
 #cta h2{
-    color: white;
     width: 70%;
 }
 .cta-download{
